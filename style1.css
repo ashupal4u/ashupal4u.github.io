@@ -1,5 +1,17 @@
-h1, h2{
+h1{
 	font-style: bold;
-	color: red;
+	color: white;
 	text-align: center;
+	font-family: cursive;
+	margin-top: 5px;
+	border-style: groove;
+	border-color: white;
+}
+
+body  {
+  background-image: url("mainbackground.JPG");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
